@@ -1,0 +1,206 @@
+================================================================
+                NOMINA DE PERSONAL MEDICO
+================================================================
+ CODIGO     | NOMBRE                    | ESPECIALIDAD    | HORARIO   
+----------------------------------------------------------------
+ MED-001    | Dr. Roberto Alvarado      | Cardiologia     | 08:00-14:00
+ MED-002    | Dra. Elena Sanchez        | Pediatria       | 09:00-15:00
+ MED-003    | Dr. Fernando Gomez        | Medicina General | 07:00-13:00
+ MED-004    | Dra. Sofia Torres         | Ginecologia     | 10:00-16:00
+ MED-005    | Dr. Luis Mendez           | Dermatologia    | 08:00-14:00
+ MED-006    | Dra. Carmen Vega          | Neurologia      | 14:00-20:00
+ MED-007    | Dr. Andres Castro         | Traumatologia   | 09:00-15:00
+ MED-008    | Dra. Lucia Peña          | Oftalmologia    | 08:00-14:00
+ MED-009    | Dr. Javier Ortega         | Oncologia       | 10:00-16:00
+ MED-010    | Dra. Monica Ruiz          | Endocrinologia  | 07:00-13:00
+ MED-011    | Dr. Ricardo Morales       | Urologia        | 11:00-17:00
+ MED-012    | Dra. Beatriz Herrera      | Psiquiatria     | 08:00-14:00
+ MED-013    | Dr. Hugo Flores           | Gastroenterologia | 09:00-15:00
+ MED-014    | Dra. Patricia Luna        | Nefrologia      | 14:00-20:00
+ MED-015    | Dr. Gabriel Rios          | Otorrinolaringologia | 08:00-14:00
+ MED-016    | Dra. Isabel Diaz          | Neumologia      | 07:00-13:00
+ MED-017    | Dr. Marcos Silva          | Hematologia     | 10:00-16:00
+ MED-018    | Dra. Raquel Jimenez       | Reumatologia    | 09:00-15:00
+ MED-019    | Dr. Alberto Pardo         | Infectologia    | 08:00-14:00
+ MED-020    | Dra. Diana Soto           | Anestesiologia  | 14:00-20:00
+ MED-021    | Dr. Sergio Blanco         | Radiologia      | 07:00-13:00
+ MED-022    | Dra. Natalia Cruz         | Inmunologia     | 08:00-14:00
+ MED-023    | Dr. Felipe Rojas          | Geriatria       | 09:00-15:00
+ MED-024    | Dra. Paula Marin          | Medicina Interna | 10:00-16:00
+ MED-025    | Dr. Oscar Lara            | Cirugia General | 14:00-20:00
+ MED-026    | Dra. Gloria Medina        | Cardiologia     | 08:00-14:00
+ MED-027    | Dr. Mario Nuñez          | Pediatria       | 09:00-15:00
+ MED-028    | Dra. Silvia Parra         | Medicina General | 07:00-13:00
+ MED-029    | Dr. Raul Vidal            | Ginecologia     | 10:00-16:00
+ MED-030    | Dra. Clara Campos         | Dermatologia    | 08:00-14:00
+ MED-031    | Dr. Victor Suarez         | Neurologia      | 14:00-20:00
+ MED-032    | Dra. Laura Montes         | Traumatologia   | 09:00-15:00
+ MED-033    | Dr. Ivan Acosta           | Oftalmologia    | 08:00-14:00
+ MED-034    | Dra. Rosa Avila           | Oncologia       | 10:00-16:00
+ MED-035    | Dr. Daniel Cabrera        | Endocrinologia  | 07:00-13:00
+ MED-036    | Dra. Alicia Ferrer        | Urologia        | 11:00-17:00
+ MED-037    | Dr. Jorge Duran           | Psiquiatria     | 08:00-14:00
+ MED-038    | Dra. Marta Bravo          | Gastroenterologia | 09:00-15:00
+ MED-039    | Dr. Manuel Leon           | Nefrologia      | 14:00-20:00
+ MED-040    | Dra. Sara Gallego         | Otorrinolaringologia | 08:00-14:00
+ MED-041    | Dr. Enrique Lozano        | Neumologia      | 07:00-13:00
+ MED-042    | Dra. Ines Hidalgo         | Hematologia     | 10:00-16:00
+ MED-043    | Dr. Pablo Ibañez         | Reumatologia    | 09:00-15:00
+ MED-044    | Dra. Eva Esteban          | Infectologia    | 08:00-14:00
+ MED-045    | Dr. Adrian Serra          | Anestesiologia  | 14:00-20:00
+ MED-046    | Dra. Julia Arias          | Radiologia      | 07:00-13:00
+ MED-047    | Dr. Hector Roman          | Inmunologia     | 08:00-14:00
+ MED-048    | Dra. Veronica Soler       | Geriatria       | 09:00-15:00
+ MED-049    | Dr. Ruben Vicario         | Medicina Interna | 10:00-16:00
+ MED-050    | Dra. Olga Vaca            | Cirugia General | 14:00-20:00
+ MED-051    | Dr. Cesar Molina          | Cardiologia     | 08:00-14:00
+ MED-052    | Dra. Lorena Prieto        | Pediatria       | 09:00-15:00
+ MED-053    | Dr. Francisco Rey         | Medicina General | 07:00-13:00
+ MED-054    | Dra. Irene Cordero        | Ginecologia     | 10:00-16:00
+ MED-055    | Dr. Jose Mendez           | Dermatologia    | 08:00-14:00
+ MED-056    | Dra. Andrea Moya          | Neurologia      | 14:00-20:00
+ MED-057    | Dr. Luis Guerra           | Traumatologia   | 09:00-15:00
+ MED-058    | Dra. Angela Cano          | Oftalmologia    | 08:00-14:00
+ MED-059    | Dr. Valentin Ramos        | Oncologia       | 10:00-16:00
+ MED-060    | Dra. Cristina Carrillo    | Endocrinologia  | 07:00-13:00
+ MED-061    | Dr. Miguel Luque          | Urologia        | 11:00-17:00
+ MED-062    | Dra. Victoria Giner       | Psiquiatria     | 08:00-14:00
+ MED-063    | Dr. Emilio Sanz           | Gastroenterologia | 09:00-15:00
+ MED-064    | Dra. Marina Gil           | Nefrologia      | 14:00-20:00
+ MED-065    | Dr. Rafael Benitez        | Otorrinolaringologia | 08:00-14:00
+ MED-066    | Dra. Belen Hernandez      | Neumologia      | 07:00-13:00
+ MED-067    | Dr. Santiago Polo         | Hematologia     | 10:00-16:00
+ MED-068    | Dra. Yolanda Franco       | Reumatologia    | 09:00-15:00
+ MED-069    | Dr. Felix Herrera         | Infectologia    | 08:00-14:00
+ MED-070    | Dra. Nuria Salgado        | Anestesiologia  | 14:00-20:00
+ MED-071    | Dr. Arturo Arroyo         | Radiologia      | 07:00-13:00
+ MED-072    | Dra. Elisa Castaño       | Inmunologia     | 08:00-14:00
+ MED-073    | Dr. Gerardo Perea         | Geriatria       | 09:00-15:00
+ MED-074    | Dra. Tania Barroso        | Medicina Interna | 10:00-16:00
+ MED-075    | Dr. Gonzalo Barbera       | Cirugia General | 14:00-20:00
+ MED-076    | Dra. Maite Escribano      | Cardiologia     | 08:00-14:00
+ MED-077    | Dr. Rodrigo Rivas         | Pediatria       | 09:00-15:00
+ MED-078    | Dra. Estela Mateo         | Medicina General | 07:00-13:00
+ MED-079    | Dr. Bernardo Valle        | Ginecologia     | 10:00-16:00
+ MED-080    | Dra. Cecilia Robles       | Dermatologia    | 08:00-14:00
+ MED-081    | Dr. Ernesto Izquierdo     | Neurologia      | 14:00-20:00
+ MED-082    | Dra. Adela Gracia         | Traumatologia   | 09:00-15:00
+ MED-083    | Dr. Salvador Lorente      | Oftalmologia    | 08:00-14:00
+ MED-084    | Dra. Paloma Blasco        | Oncologia       | 10:00-16:00
+ MED-085    | Dr. Cristian Santos       | Endocrinologia  | 07:00-13:00
+ MED-086    | Dra. Noelia Montero       | Urologia        | 11:00-17:00
+ MED-087    | Dr. Lorenzo Ballester     | Psiquiatria     | 08:00-14:00
+ MED-088    | Dra. Amparo Huertas       | Gastroenterologia | 09:00-15:00
+ MED-089    | Dr. Bruno Gallardo        | Nefrologia      | 14:00-20:00
+ MED-090    | Dra. Miriam Bernal        | Otorrinolaringologia | 08:00-14:00
+ MED-091    | Dr. Ismael Crespo         | Neumologia      | 07:00-13:00
+ MED-092    | Dra. Aurora Marco         | Hematologia     | 10:00-16:00
+ MED-093    | Dr. Julian Caballero      | Reumatologia    | 09:00-15:00
+ MED-094    | Dra. Teresa Borja         | Infectologia    | 08:00-14:00
+ MED-095    | Dr. Ignacio Marín        | Anestesiologia  | 14:00-20:00
+ MED-096    | Dra. Alba Velasco         | Radiologia      | 07:00-13:00
+ MED-097    | Dr. Esteban Galan         | Inmunologia     | 08:00-14:00
+ MED-098    | Dra. Blanca Esteban       | Geriatria       | 09:00-15:00
+ MED-099    | Dr. Ramon Soria           | Medicina Interna | 10:00-16:00
+ MED-100    | Dra. Celia Cuenca         | Cirugia General | 14:00-20:00
+ MED-101    | Dr. Fabian Jurado         | Cardiologia     | 08:00-14:00
+ MED-102    | Dra. Gemma Bosch          | Pediatria       | 09:00-15:00
+ MED-103    | Dr. Lucas Aguado          | Medicina General | 07:00-13:00
+ MED-104    | Dra. Adriana Ojeda        | Ginecologia     | 10:00-16:00
+ MED-105    | Dr. Borja Peral           | Dermatologia    | 08:00-14:00
+ MED-106    | Dra. Leonor Oliva         | Neurologia      | 14:00-20:00
+ MED-107    | Dr. Pau Morera            | Traumatologia   | 09:00-15:00
+ MED-108    | Dra. Carla Barea          | Oftalmologia    | 08:00-14:00
+ MED-109    | Dr. Domingo Tapia         | Oncologia       | 10:00-16:00
+ MED-110    | Dra. Marta Giralt         | Endocrinologia  | 07:00-13:00
+ MED-111    | Dr. Marc Sanchis          | Urologia        | 11:00-17:00
+ MED-112    | Dra. Roser Vila           | Psiquiatria     | 08:00-14:00
+ MED-113    | Dr. Joan Torrent          | Gastroenterologia | 09:00-15:00
+ MED-114    | Dra. Laia Mas             | Nefrologia      | 14:00-20:00
+ MED-115    | Dr. Jordi Rius            | Otorrinolaringologia | 08:00-14:00
+ MED-116    | Dra. Neus Sole            | Neumologia      | 07:00-13:00
+ MED-117    | Dr. Pere Costa            | Hematologia     | 10:00-16:00
+ MED-118    | Dra. Anna Pons            | Reumatologia    | 09:00-15:00
+ MED-119    | Dr. Quim Fare             | Infectologia    | 08:00-14:00
+ MED-120    | Dra. Mireia Gual          | Anestesiologia  | 14:00-20:00
+ MED-121    | Dr. Enric Bosch           | Radiologia      | 07:00-13:00
+ MED-122    | Dra. Meritxell Pol        | Inmunologia     | 08:00-14:00
+ MED-123    | Dr. Oriol Mestre          | Geriatria       | 09:00-15:00
+ MED-124    | Dra. Clara Badia          | Medicina Interna | 10:00-16:00
+ MED-125    | Dr. Xavier Pi             | Cirugia General | 14:00-20:00
+ MED-126    | Dra. Eva Miro             | Cardiologia     | 08:00-14:00
+ MED-127    | Dr. Sergi Clar            | Pediatria       | 09:00-15:00
+ MED-128    | Dra. Ruth Edo             | Medicina General | 07:00-13:00
+ MED-129    | Dr. Arnau Coll            | Ginecologia     | 10:00-16:00
+ MED-130    | Dra. Julia Sans           | Dermatologia    | 08:00-14:00
+ MED-131    | Dr. Biel Pujol            | Neurologia      | 14:00-20:00
+ MED-132    | Dra. Mar Roig             | Traumatologia   | 09:00-15:00
+ MED-133    | Dr. Nil Vidal             | Oftalmologia    | 08:00-14:00
+ MED-134    | Dra. Iris Saez            | Oncologia       | 10:00-16:00
+ MED-135    | Dr. Pol Serra             | Endocrinologia  | 07:00-13:00
+ MED-136    | Dra. Ona Farre            | Urologia        | 11:00-17:00
+ MED-137    | Dr. Leo Grau              | Psiquiatria     | 08:00-14:00
+ MED-138    | Dra. Ivet Pou             | Gastroenterologia | 09:00-15:00
+ MED-139    | Dr. Jan Comas             | Nefrologia      | 14:00-20:00
+ MED-140    | Dra. Bruna Gall           | Otorrinolaringologia | 08:00-14:00
+ MED-141    | Dr. Aleix Bel             | Neumologia      | 07:00-13:00
+ MED-142    | Dra. Noa Sole             | Hematologia     | 10:00-16:00
+ MED-143    | Dr. Marti Bas             | Reumatologia    | 09:00-15:00
+ MED-144    | Dra. Arlet Pic            | Infectologia    | 08:00-14:00
+ MED-145    | Dr. Eloi Dalmau           | Anestesiologia  | 14:00-20:00
+ MED-146    | Dra. Jana Ribas           | Radiologia      | 07:00-13:00
+ MED-147    | Dr. Hugo Pous             | Inmunologia     | 08:00-14:00
+ MED-148    | Dra. Abril Feliu          | Geriatria       | 09:00-15:00
+ MED-149    | Dr. Eric Geli             | Medicina Interna | 10:00-16:00
+ MED-150    | Dra. Martina Mur          | Cirugia General | 14:00-20:00
+ MED-151    | Dr. Teo Querol            | Cardiologia     | 08:00-14:00
+ MED-152    | Dra. Lia Mor              | Pediatria       | 09:00-15:00
+ MED-153    | Dr. Roc Fabra             | Medicina General | 07:00-13:00
+ MED-154    | Dra. Gal-la Ros           | Ginecologia     | 10:00-16:00
+ MED-155    | Dr. Guiu Tico             | Dermatologia    | 08:00-14:00
+ MED-156    | Dra. Queralt Mir          | Neurologia      | 14:00-20:00
+ MED-157    | Dr. Blai Figueras         | Traumatologia   | 09:00-15:00
+ MED-158    | Dra. Vinyet Sol           | Oftalmologia    | 08:00-14:00
+ MED-159    | Dr. Bernat Maso           | Oncologia       | 10:00-16:00
+ MED-160    | Dra. Joana Verges         | Endocrinologia  | 07:00-13:00
+ MED-161    | Dr. Otger Brunet          | Urologia        | 11:00-17:00
+ MED-162    | Dra. Aina Puig            | Psiquiatria     | 08:00-14:00
+ MED-163    | Dr. Marçal Folch         | Gastroenterologia | 09:00-15:00
+ MED-164    | Dra. Berta Clotet         | Nefrologia      | 14:00-20:00
+ MED-165    | Dr. Adria Reig            | Otorrinolaringologia | 08:00-14:00
+ MED-166    | Dra. Carla Romeu          | Neumologia      | 07:00-13:00
+ MED-167    | Dr. Victor Planas         | Hematologia     | 10:00-16:00
+ MED-168    | Dra. Judith Noguera       | Reumatologia    | 09:00-15:00
+ MED-169    | Dr. Genis Vall            | Infectologia    | 08:00-14:00
+ MED-170    | Dra. Marina Balmes        | Anestesiologia  | 14:00-20:00
+ MED-171    | Dr. Albert Salva          | Radiologia      | 07:00-13:00
+ MED-172    | Dra. Anna Aris            | Inmunologia     | 08:00-14:00
+ MED-173    | Dr. Dani Cano             | Geriatria       | 09:00-15:00
+ MED-174    | Dra. Sira Boix            | Medicina Interna | 10:00-16:00
+ MED-175    | Dr. Cesar Prats           | Cirugia General | 14:00-20:00
+ MED-176    | Dra. Elena Fuster         | Cardiologia     | 08:00-14:00
+ MED-177    | Dr. Oscar Goday           | Pediatria       | 09:00-15:00
+ MED-178    | Dra. Rita Batlle          | Medicina General | 07:00-13:00
+ MED-179    | Dr. Manel Valls           | Ginecologia     | 10:00-16:00
+ MED-180    | Dra. Nora Llobet          | Dermatologia    | 08:00-14:00
+ MED-181    | Dr. Ramon Mas             | Neurologia      | 14:00-20:00
+ MED-182    | Dra. Maria Soler          | Traumatologia   | 09:00-15:00
+ MED-183    | Dr. Jaume Palau           | Oftalmologia    | 08:00-14:00
+ MED-184    | Dra. Silvia Marti         | Oncologia       | 10:00-16:00
+ MED-185    | Dr. Toni Cullell          | Endocrinologia  | 07:00-13:00
+ MED-186    | Dra. Raquel Galbe         | Urologia        | 11:00-17:00
+ MED-187    | Dr. Lluis Geli            | Psiquiatria     | 08:00-14:00
+ MED-188    | Dra. Clara Jorda          | Gastroenterologia | 09:00-15:00
+ MED-189    | Dr. Eduard Buix           | Nefrologia      | 14:00-20:00
+ MED-190    | Dra. Emma Cassa           | Otorrinolaringologia | 08:00-14:00
+ MED-191    | Dr. Narcis Piera          | Neumologia      | 07:00-13:00
+ MED-192    | Dra. Gemma Sabat          | Hematologia     | 10:00-16:00
+ MED-193    | Dr. Josep Canals          | Reumatologia    | 09:00-15:00
+ MED-194    | Dra. Rosa Garrell         | Infectologia    | 08:00-14:00
+ MED-195    | Dr. Ivan Sais             | Anestesiologia  | 14:00-20:00
+ MED-196    | Dra. Julia Arbo           | Radiologia      | 07:00-13:00
+ MED-197    | Dr. Ferran Bassa          | Inmunologia     | 08:00-14:00
+ MED-198    | Dra. Maite Borras         | Geriatria       | 09:00-15:00
+ MED-199    | Dr. Carles Masia          | Medicina Interna | 10:00-16:00
+ MED-200    | Dra. Mireia Camps         | Cirugia General | 14:00-20:00
+================================================================

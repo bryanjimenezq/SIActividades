@@ -1,0 +1,200 @@
+MED-001|Dr. Roberto Alvarado|45|Cardiologia|08:00-14:00|doc123
+MED-002|Dra. Elena Sanchez|38|Pediatria|09:00-15:00|doc123
+MED-003|Dr. Fernando Gomez|52|Medicina General|07:00-13:00|doc123
+MED-004|Dra. Sofia Torres|41|Ginecologia|10:00-16:00|doc123
+MED-005|Dr. Luis Mendez|35|Dermatologia|08:00-14:00|doc123
+MED-006|Dra. Carmen Vega|48|Neurologia|14:00-20:00|doc123
+MED-007|Dr. Andres Castro|55|Traumatologia|09:00-15:00|doc123
+MED-008|Dra. Lucia Peña|33|Oftalmologia|08:00-14:00|doc123
+MED-009|Dr. Javier Ortega|44|Oncologia|10:00-16:00|doc123
+MED-010|Dra. Monica Ruiz|39|Endocrinologia|07:00-13:00|doc123
+MED-011|Dr. Ricardo Morales|50|Urologia|11:00-17:00|doc123
+MED-012|Dra. Beatriz Herrera|36|Psiquiatria|08:00-14:00|doc123
+MED-013|Dr. Hugo Flores|47|Gastroenterologia|09:00-15:00|doc123
+MED-014|Dra. Patricia Luna|42|Nefrologia|14:00-20:00|doc123
+MED-015|Dr. Gabriel Rios|34|Otorrinolaringologia|08:00-14:00|doc123
+MED-016|Dra. Isabel Diaz|53|Neumologia|07:00-13:00|doc123
+MED-017|Dr. Marcos Silva|40|Hematologia|10:00-16:00|doc123
+MED-018|Dra. Raquel Jimenez|37|Reumatologia|09:00-15:00|doc123
+MED-019|Dr. Alberto Pardo|58|Infectologia|08:00-14:00|doc123
+MED-020|Dra. Diana Soto|46|Anestesiologia|14:00-20:00|doc123
+MED-021|Dr. Sergio Blanco|43|Radiologia|07:00-13:00|doc123
+MED-022|Dra. Natalia Cruz|32|Inmunologia|08:00-14:00|doc123
+MED-023|Dr. Felipe Rojas|49|Geriatria|09:00-15:00|doc123
+MED-024|Dra. Paula Marin|31|Medicina Interna|10:00-16:00|doc123
+MED-025|Dr. Oscar Lara|51|Cirugia General|14:00-20:00|doc123
+MED-026|Dra. Gloria Medina|45|Cardiologia|08:00-14:00|doc123
+MED-027|Dr. Mario Nuñez|38|Pediatria|09:00-15:00|doc123
+MED-028|Dra. Silvia Parra|52|Medicina General|07:00-13:00|doc123
+MED-029|Dr. Raul Vidal|41|Ginecologia|10:00-16:00|doc123
+MED-030|Dra. Clara Campos|35|Dermatologia|08:00-14:00|doc123
+MED-031|Dr. Victor Suarez|48|Neurologia|14:00-20:00|doc123
+MED-032|Dra. Laura Montes|55|Traumatologia|09:00-15:00|doc123
+MED-033|Dr. Ivan Acosta|33|Oftalmologia|08:00-14:00|doc123
+MED-034|Dra. Rosa Avila|44|Oncologia|10:00-16:00|doc123
+MED-035|Dr. Daniel Cabrera|39|Endocrinologia|07:00-13:00|doc123
+MED-036|Dra. Alicia Ferrer|50|Urologia|11:00-17:00|doc123
+MED-037|Dr. Jorge Duran|36|Psiquiatria|08:00-14:00|doc123
+MED-038|Dra. Marta Bravo|47|Gastroenterologia|09:00-15:00|doc123
+MED-039|Dr. Manuel Leon|42|Nefrologia|14:00-20:00|doc123
+MED-040|Dra. Sara Gallego|34|Otorrinolaringologia|08:00-14:00|doc123
+MED-041|Dr. Enrique Lozano|53|Neumologia|07:00-13:00|doc123
+MED-042|Dra. Ines Hidalgo|40|Hematologia|10:00-16:00|doc123
+MED-043|Dr. Pablo Ibañez|37|Reumatologia|09:00-15:00|doc123
+MED-044|Dra. Eva Esteban|58|Infectologia|08:00-14:00|doc123
+MED-045|Dr. Adrian Serra|46|Anestesiologia|14:00-20:00|doc123
+MED-046|Dra. Julia Arias|43|Radiologia|07:00-13:00|doc123
+MED-047|Dr. Hector Roman|32|Inmunologia|08:00-14:00|doc123
+MED-048|Dra. Veronica Soler|49|Geriatria|09:00-15:00|doc123
+MED-049|Dr. Ruben Vicario|31|Medicina Interna|10:00-16:00|doc123
+MED-050|Dra. Olga Vaca|51|Cirugia General|14:00-20:00|doc123
+MED-051|Dr. Cesar Molina|45|Cardiologia|08:00-14:00|doc123
+MED-052|Dra. Lorena Prieto|38|Pediatria|09:00-15:00|doc123
+MED-053|Dr. Francisco Rey|52|Medicina General|07:00-13:00|doc123
+MED-054|Dra. Irene Cordero|41|Ginecologia|10:00-16:00|doc123
+MED-055|Dr. Jose Mendez|35|Dermatologia|08:00-14:00|doc123
+MED-056|Dra. Andrea Moya|48|Neurologia|14:00-20:00|doc123
+MED-057|Dr. Luis Guerra|55|Traumatologia|09:00-15:00|doc123
+MED-058|Dra. Angela Cano|33|Oftalmologia|08:00-14:00|doc123
+MED-059|Dr. Valentin Ramos|44|Oncologia|10:00-16:00|doc123
+MED-060|Dra. Cristina Carrillo|39|Endocrinologia|07:00-13:00|doc123
+MED-061|Dr. Miguel Luque|50|Urologia|11:00-17:00|doc123
+MED-062|Dra. Victoria Giner|36|Psiquiatria|08:00-14:00|doc123
+MED-063|Dr. Emilio Sanz|47|Gastroenterologia|09:00-15:00|doc123
+MED-064|Dra. Marina Gil|42|Nefrologia|14:00-20:00|doc123
+MED-065|Dr. Rafael Benitez|34|Otorrinolaringologia|08:00-14:00|doc123
+MED-066|Dra. Belen Hernandez|53|Neumologia|07:00-13:00|doc123
+MED-067|Dr. Santiago Polo|40|Hematologia|10:00-16:00|doc123
+MED-068|Dra. Yolanda Franco|37|Reumatologia|09:00-15:00|doc123
+MED-069|Dr. Felix Herrera|58|Infectologia|08:00-14:00|doc123
+MED-070|Dra. Nuria Salgado|46|Anestesiologia|14:00-20:00|doc123
+MED-071|Dr. Arturo Arroyo|43|Radiologia|07:00-13:00|doc123
+MED-072|Dra. Elisa Castaño|32|Inmunologia|08:00-14:00|doc123
+MED-073|Dr. Gerardo Perea|49|Geriatria|09:00-15:00|doc123
+MED-074|Dra. Tania Barroso|31|Medicina Interna|10:00-16:00|doc123
+MED-075|Dr. Gonzalo Barbera|51|Cirugia General|14:00-20:00|doc123
+MED-076|Dra. Maite Escribano|45|Cardiologia|08:00-14:00|doc123
+MED-077|Dr. Rodrigo Rivas|38|Pediatria|09:00-15:00|doc123
+MED-078|Dra. Estela Mateo|52|Medicina General|07:00-13:00|doc123
+MED-079|Dr. Bernardo Valle|41|Ginecologia|10:00-16:00|doc123
+MED-080|Dra. Cecilia Robles|35|Dermatologia|08:00-14:00|doc123
+MED-081|Dr. Ernesto Izquierdo|48|Neurologia|14:00-20:00|doc123
+MED-082|Dra. Adela Gracia|55|Traumatologia|09:00-15:00|doc123
+MED-083|Dr. Salvador Lorente|33|Oftalmologia|08:00-14:00|doc123
+MED-084|Dra. Paloma Blasco|44|Oncologia|10:00-16:00|doc123
+MED-085|Dr. Cristian Santos|39|Endocrinologia|07:00-13:00|doc123
+MED-086|Dra. Noelia Montero|50|Urologia|11:00-17:00|doc123
+MED-087|Dr. Lorenzo Ballester|36|Psiquiatria|08:00-14:00|doc123
+MED-088|Dra. Amparo Huertas|47|Gastroenterologia|09:00-15:00|doc123
+MED-089|Dr. Bruno Gallardo|42|Nefrologia|14:00-20:00|doc123
+MED-090|Dra. Miriam Bernal|34|Otorrinolaringologia|08:00-14:00|doc123
+MED-091|Dr. Ismael Crespo|53|Neumologia|07:00-13:00|doc123
+MED-092|Dra. Aurora Marco|40|Hematologia|10:00-16:00|doc123
+MED-093|Dr. Julian Caballero|37|Reumatologia|09:00-15:00|doc123
+MED-094|Dra. Teresa Borja|58|Infectologia|08:00-14:00|doc123
+MED-095|Dr. Ignacio Marín|46|Anestesiologia|14:00-20:00|doc123
+MED-096|Dra. Alba Velasco|43|Radiologia|07:00-13:00|doc123
+MED-097|Dr. Esteban Galan|32|Inmunologia|08:00-14:00|doc123
+MED-098|Dra. Blanca Esteban|49|Geriatria|09:00-15:00|doc123
+MED-099|Dr. Ramon Soria|31|Medicina Interna|10:00-16:00|doc123
+MED-100|Dra. Celia Cuenca|51|Cirugia General|14:00-20:00|doc123
+MED-101|Dr. Fabian Jurado|45|Cardiologia|08:00-14:00|doc123
+MED-102|Dra. Gemma Bosch|38|Pediatria|09:00-15:00|doc123
+MED-103|Dr. Lucas Aguado|52|Medicina General|07:00-13:00|doc123
+MED-104|Dra. Adriana Ojeda|41|Ginecologia|10:00-16:00|doc123
+MED-105|Dr. Borja Peral|35|Dermatologia|08:00-14:00|doc123
+MED-106|Dra. Leonor Oliva|48|Neurologia|14:00-20:00|doc123
+MED-107|Dr. Pau Morera|55|Traumatologia|09:00-15:00|doc123
+MED-108|Dra. Carla Barea|33|Oftalmologia|08:00-14:00|doc123
+MED-109|Dr. Domingo Tapia|44|Oncologia|10:00-16:00|doc123
+MED-110|Dra. Marta Giralt|39|Endocrinologia|07:00-13:00|doc123
+MED-111|Dr. Marc Sanchis|50|Urologia|11:00-17:00|doc123
+MED-112|Dra. Roser Vila|36|Psiquiatria|08:00-14:00|doc123
+MED-113|Dr. Joan Torrent|47|Gastroenterologia|09:00-15:00|doc123
+MED-114|Dra. Laia Mas|42|Nefrologia|14:00-20:00|doc123
+MED-115|Dr. Jordi Rius|34|Otorrinolaringologia|08:00-14:00|doc123
+MED-116|Dra. Neus Sole|53|Neumologia|07:00-13:00|doc123
+MED-117|Dr. Pere Costa|40|Hematologia|10:00-16:00|doc123
+MED-118|Dra. Anna Pons|37|Reumatologia|09:00-15:00|doc123
+MED-119|Dr. Quim Fare|58|Infectologia|08:00-14:00|doc123
+MED-120|Dra. Mireia Gual|46|Anestesiologia|14:00-20:00|doc123
+MED-121|Dr. Enric Bosch|43|Radiologia|07:00-13:00|doc123
+MED-122|Dra. Meritxell Pol|32|Inmunologia|08:00-14:00|doc123
+MED-123|Dr. Oriol Mestre|49|Geriatria|09:00-15:00|doc123
+MED-124|Dra. Clara Badia|31|Medicina Interna|10:00-16:00|doc123
+MED-125|Dr. Xavier Pi|51|Cirugia General|14:00-20:00|doc123
+MED-126|Dra. Eva Miro|45|Cardiologia|08:00-14:00|doc123
+MED-127|Dr. Sergi Clar|38|Pediatria|09:00-15:00|doc123
+MED-128|Dra. Ruth Edo|52|Medicina General|07:00-13:00|doc123
+MED-129|Dr. Arnau Coll|41|Ginecologia|10:00-16:00|doc123
+MED-130|Dra. Julia Sans|35|Dermatologia|08:00-14:00|doc123
+MED-131|Dr. Biel Pujol|48|Neurologia|14:00-20:00|doc123
+MED-132|Dra. Mar Roig|55|Traumatologia|09:00-15:00|doc123
+MED-133|Dr. Nil Vidal|33|Oftalmologia|08:00-14:00|doc123
+MED-134|Dra. Iris Saez|44|Oncologia|10:00-16:00|doc123
+MED-135|Dr. Pol Serra|39|Endocrinologia|07:00-13:00|doc123
+MED-136|Dra. Ona Farre|50|Urologia|11:00-17:00|doc123
+MED-137|Dr. Leo Grau|36|Psiquiatria|08:00-14:00|doc123
+MED-138|Dra. Ivet Pou|47|Gastroenterologia|09:00-15:00|doc123
+MED-139|Dr. Jan Comas|42|Nefrologia|14:00-20:00|doc123
+MED-140|Dra. Bruna Gall|34|Otorrinolaringologia|08:00-14:00|doc123
+MED-141|Dr. Aleix Bel|53|Neumologia|07:00-13:00|doc123
+MED-142|Dra. Noa Sole|40|Hematologia|10:00-16:00|doc123
+MED-143|Dr. Marti Bas|37|Reumatologia|09:00-15:00|doc123
+MED-144|Dra. Arlet Pic|58|Infectologia|08:00-14:00|doc123
+MED-145|Dr. Eloi Dalmau|46|Anestesiologia|14:00-20:00|doc123
+MED-146|Dra. Jana Ribas|43|Radiologia|07:00-13:00|doc123
+MED-147|Dr. Hugo Pous|32|Inmunologia|08:00-14:00|doc123
+MED-148|Dra. Abril Feliu|49|Geriatria|09:00-15:00|doc123
+MED-149|Dr. Eric Geli|31|Medicina Interna|10:00-16:00|doc123
+MED-150|Dra. Martina Mur|51|Cirugia General|14:00-20:00|doc123
+MED-151|Dr. Teo Querol|45|Cardiologia|08:00-14:00|doc123
+MED-152|Dra. Lia Mor|38|Pediatria|09:00-15:00|doc123
+MED-153|Dr. Roc Fabra|52|Medicina General|07:00-13:00|doc123
+MED-154|Dra. Gal-la Ros|41|Ginecologia|10:00-16:00|doc123
+MED-155|Dr. Guiu Tico|35|Dermatologia|08:00-14:00|doc123
+MED-156|Dra. Queralt Mir|48|Neurologia|14:00-20:00|doc123
+MED-157|Dr. Blai Figueras|55|Traumatologia|09:00-15:00|doc123
+MED-158|Dra. Vinyet Sol|33|Oftalmologia|08:00-14:00|doc123
+MED-159|Dr. Bernat Maso|44|Oncologia|10:00-16:00|doc123
+MED-160|Dra. Joana Verges|39|Endocrinologia|07:00-13:00|doc123
+MED-161|Dr. Otger Brunet|50|Urologia|11:00-17:00|doc123
+MED-162|Dra. Aina Puig|36|Psiquiatria|08:00-14:00|doc123
+MED-163|Dr. Marçal Folch|47|Gastroenterologia|09:00-15:00|doc123
+MED-164|Dra. Berta Clotet|42|Nefrologia|14:00-20:00|doc123
+MED-165|Dr. Adria Reig|34|Otorrinolaringologia|08:00-14:00|doc123
+MED-166|Dra. Carla Romeu|53|Neumologia|07:00-13:00|doc123
+MED-167|Dr. Victor Planas|40|Hematologia|10:00-16:00|doc123
+MED-168|Dra. Judith Noguera|37|Reumatologia|09:00-15:00|doc123
+MED-169|Dr. Genis Vall|58|Infectologia|08:00-14:00|doc123
+MED-170|Dra. Marina Balmes|46|Anestesiologia|14:00-20:00|doc123
+MED-171|Dr. Albert Salva|43|Radiologia|07:00-13:00|doc123
+MED-172|Dra. Anna Aris|32|Inmunologia|08:00-14:00|doc123
+MED-173|Dr. Dani Cano|49|Geriatria|09:00-15:00|doc123
+MED-174|Dra. Sira Boix|31|Medicina Interna|10:00-16:00|doc123
+MED-175|Dr. Cesar Prats|51|Cirugia General|14:00-20:00|doc123
+MED-176|Dra. Elena Fuster|45|Cardiologia|08:00-14:00|doc123
+MED-177|Dr. Oscar Goday|38|Pediatria|09:00-15:00|doc123
+MED-178|Dra. Rita Batlle|52|Medicina General|07:00-13:00|doc123
+MED-179|Dr. Manel Valls|41|Ginecologia|10:00-16:00|doc123
+MED-180|Dra. Nora Llobet|35|Dermatologia|08:00-14:00|doc123
+MED-181|Dr. Ramon Mas|48|Neurologia|14:00-20:00|doc123
+MED-182|Dra. Maria Soler|55|Traumatologia|09:00-15:00|doc123
+MED-183|Dr. Jaume Palau|33|Oftalmologia|08:00-14:00|doc123
+MED-184|Dra. Silvia Marti|44|Oncologia|10:00-16:00|doc123
+MED-185|Dr. Toni Cullell|39|Endocrinologia|07:00-13:00|doc123
+MED-186|Dra. Raquel Galbe|50|Urologia|11:00-17:00|doc123
+MED-187|Dr. Lluis Geli|36|Psiquiatria|08:00-14:00|doc123
+MED-188|Dra. Clara Jorda|47|Gastroenterologia|09:00-15:00|doc123
+MED-189|Dr. Eduard Buix|42|Nefrologia|14:00-20:00|doc123
+MED-190|Dra. Emma Cassa|34|Otorrinolaringologia|08:00-14:00|doc123
+MED-191|Dr. Narcis Piera|53|Neumologia|07:00-13:00|doc123
+MED-192|Dra. Gemma Sabat|40|Hematologia|10:00-16:00|doc123
+MED-193|Dr. Josep Canals|37|Reumatologia|09:00-15:00|doc123
+MED-194|Dra. Rosa Garrell|58|Infectologia|08:00-14:00|doc123
+MED-195|Dr. Ivan Sais|46|Anestesiologia|14:00-20:00|doc123
+MED-196|Dra. Julia Arbo|43|Radiologia|07:00-13:00|doc123
+MED-197|Dr. Ferran Bassa|32|Inmunologia|08:00-14:00|doc123
+MED-198|Dra. Maite Borras|49|Geriatria|09:00-15:00|doc123
+MED-199|Dr. Carles Masia|31|Medicina Interna|10:00-16:00|doc123
+MED-200|Dra. Mireia Camps|51|Cirugia General|14:00-20:00|doc123
